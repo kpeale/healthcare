@@ -122,7 +122,7 @@ const Nav = () => {
             href='/'
             className='flex flex-row gap-4 items-center justify-center'
           >
-            <div className='bg-[#458ff8] flex items-center justify-center w-[50px] h-[50px] rounded-full'>
+            <div className='bg-[#458ff8] flex items-center justify-center w-[50px] h-[50px] rounded-full mb-3'>
               <p className='text-white font-mulish font-bold text-[26px]'>T</p>
             </div>
             <div className='font-bold text-lg text-[#233348]'>

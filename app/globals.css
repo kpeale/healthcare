@@ -6,7 +6,17 @@
 @theme  {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-mulish:  "Mulish", sans-serif;;
+  --font-mulish:  "Mulish", sans-serif;
+  --breakpoint-tsm:85.375rem;
+  --breakpoint-ysm: 90rem;
+  --breakpoint-lsm:104.75rem;
+  --breakpoint-bsm:110.75rem;
+  --breakpoint-csm:117rem;
+  --breakpoint-dsm:124.25rem;
+  --breakpoint-vsm:134.5rem;
+  --breakpoint-bg:125rem;
+  --breakpoint-ug:143.75rem;
+  --breakpoint-fsm:154.25rem;
   
 }
 

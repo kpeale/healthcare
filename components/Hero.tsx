@@ -18,10 +18,10 @@ const Hero = () => {
         className='flex flex-col justify-between items-center xl:flex-row mt-[8rem] xl:mt-[-8rem]  px-0  lg:px-[6rem] xl:px-[10rem] 2xl:px-[15rem] '
       >
         <div className='flex flex-col items-center justify-center xl:items-start xl:justify-start'>
-          <h2 className='text-black font-mulish text-[2rem] lg:text-[3rem] leading-[2rem] lg:leading-[3.5rem] font-bold max-w-max xl:max-w-[480px] text-center xl:text-start'>
+          <h2 className='text-black font-mulish text-[2rem] lg:text-[3rem] leading-[2rem] lg:leading-[3.5rem] font-bold max-w-max xl:max-w-[480px] bg:max-w-max text-center xl:text-start'>
             Virtual Healthcare for you
           </h2>
-          <p className='font-mulish font-light text-lg lg:text-[21px] leading-[1.5rem] lg:leading-[2rem] text-[#7d7987] max-w-[445px] mt-4 text-center xl:text-start'>
+          <p className='font-mulish font-light text-lg lg:text-[21px] leading-[1.5rem] lg:leading-[2rem] text-[#7d7987] max-w-[445px] bg:max-w-max mt-4 text-center xl:text-start'>
             Trafalgar provides progressive, and affordable healthcare,
             accessible on mobile and online for everyone
           </p>
