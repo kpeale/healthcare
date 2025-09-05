@@ -1,5 +1,6 @@
 import React from 'react';
 import Image from 'next/image';
+import Button from './Button';
 
 const AboutUs = () => {
   return (
@@ -78,7 +79,7 @@ const AboutUs = () => {
             <h2 className='pt-[19.41px] font-mulish text-bold text-[20px] lg:text-lg leading-7 lg:leading-14 pl-0 xl:pl-[36.36px]'>
               Online pharmacy
             </h2>
-            <p className='pt-[10px] max-w-[260px] xl:max-w-[261px] text-[#7D7987] font-mulish font-light text-[16px] leading-6 pl-0 lg:pl-[37px] pb-[62px] xl:pb-[47px]'>
+            <p className='pt-[10px] max-w-[260px] xl:max-w-[261px] text-[#7D7987] font-mulish font-light text-[16px] leading-6 pl-0 xl:pl-[37px] pb-[62px] xl:pb-[47px]'>
               Buy your medicines with our mobile application with a simple
               delivery system
             </p>
@@ -99,7 +100,7 @@ const AboutUs = () => {
               Consultation
             </h2>
             <p className='pt-[10px] max-w-[260px] xl:max-w-[280px] text-[#7D7987] font-mulish font-light text-[16px] leading-6  pl-0 xl:pl-[39px]  pb-[47px]'>
-              Free consultation with our trusted doctors and get the best
+              Free consultations with our trusted doctors and get the best
               recomendations
             </p>
           </div>
@@ -164,6 +165,9 @@ const AboutUs = () => {
             </p>
           </div>
         </div>
+      </div>
+      <div className='flex items-center justify-center mt-[69px] mx-auto'>
+        <Button>Learn more</Button>
       </div>
     </section>
   );
