@@ -23,12 +23,12 @@ const Footer = () => {
         />
       </div>
 
-      <div className='flex flex-col lg:flex-row py-[3rem] lg:py-[7rem] gap-[3rem] lg:gap-[5rem] lg:gap-[9rem] items-center justify-center mx-auto'>
+      <div className='flex flex-col lg:flex-row py-[3rem] lg:py-[7rem] gap-[3rem] lg:gap-[5rem] xl:gap-[9rem] items-center justify-center mx-auto'>
         <div className='flex flex-col'>
           <div>
             <Link
               href='/'
-              className='flex flex-row gap-2 items-center '
+              className='flex flex-row gap-2 items-center justify-center lg:justify-start '
             >
               <div className='bg-white flex items-center justify-center w-[50px] h-[50px] rounded-full mb-3'>
                 <p className='text-[#5B9BF3] font-mulish font-bold text-[26px]'>
@@ -36,20 +36,20 @@ const Footer = () => {
                 </p>
               </div>
               <div>
-                <p className='font-bold text-[24px] text-white font-mulish leading-auto text-white'>
+                <p className='font-bold text-[24px]  font-mulish leading-auto text-white'>
                   Trafalgar
                 </p>
               </div>
             </Link>
           </div>
 
-          <div className='flex items-center justify-center xl:items-start xl:justify-start max-w-[391px] mt-[22px]'>
+          <div className='flex items-center justify-center xl:items-start xl:justify-start max-w-[300px] sm:max-w-[391px] mt-[22px]'>
             <p className='text-lg text-white leading-[28px] font-mulish font-light'>
               Trafalgar provides progressive, and affordable healthcare,
               accessible on mobile and online for everyone
             </p>
           </div>
-          <div className='flex items-center justify-center xl:items-start xl:justify-start max-w-[391px] mt-[31px] mb-[17px]'>
+          <div className='flex items-center justify-center lg:items-start lg:justify-start max-w-[300px] sm:max-w-[391px] mt-[31px] mb-[17px]'>
             <p className='text-lg text-white leading-[28px] font-mulish font-light'>
               ©Trafalgar PTY LTD 2020. All rights reserved
             </p>
@@ -97,11 +97,11 @@ const Footer = () => {
             </div>
           </div>
 
-          <div className='flex flex-col gap-4'>
+          <div className='flex flex-col gap-4  items-center justify-center  xl:items-start xl:justify-start'>
             <h2 className='text-white font-mulish font-bold text-[20px] leading-[60px] '>
               Help
             </h2>
-            <div className='flex flex-col gap-2'>
+            <div className='flex flex-col gap-2 justify-center items-center xl:justify-start xl:items-start'>
               <p className='text-white font-mulish font-light text-[16px] leading-[28px] '>
                 Help center
               </p>
