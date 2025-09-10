@@ -14,7 +14,7 @@ const AboutUs = () => {
         </h1>
         <div className='border-t-2 border-t-black w-14 h-0.5 flex mx-auto my-2 items-center justify-center rounded-[5px] '></div>
         <div className='mt-4 flex items-center justify-center mx-auto text-center max-w-[300px] sm:max-w-[500px] md:max-w-[650px] lg:max-w-[952px]'>
-          <p className='text-[#7D7987]  font-mulish font-light text-[16px] lg:text-lg leading-5 lg:leading-8'>
+          <p className='text-[#7D7987]  font-mulish font-light text-[16px] lg:text-lg leading-8'>
             We provide to you the best choiches for you. Adjust it to your
             health needs and make sure your undergo treatment with our highly
             qualified doctors you can consult with us which type of service is
@@ -41,12 +41,12 @@ const AboutUs = () => {
               width={131.58}
               height={115}
               alt='dots'
-              className='xl:absolute xl:z-10 xl:right-[3%] ysm:right-[8%] tsm:right-[5%] 2xl:right-[4%] lsm:right-[5.5%] bsm:right-[6.5%] csm:right-[7.5%] dsm:right-[8.5%] bg:right-[9%] vsm:right-[10%] ug:right-[11%] fsm:right-[12%]   xl:bottom-[19.5rem]'
+              className='xl:absolute xl:z-10 xl:right-[3%] esm:right-[4.5%] jsm:right-[5.5%] zmd:right-[6%] ksm:right-[7%] ysm:right-[8%] psm:right-[9%] qsm:right-[10%] rsm:right-[11%] msm:right-[12%] nsm:right-[13%] lsm:right-[14%] asm:right-[15%] bsm:right-[16%] csm:right-[17%] gsm:right-[17.5%] dsm:right-[18%] hsm:right-[18.5%] ism:right-[19%] osm:right-[19.5%] bg:right-[20%] lbg:right-[20.5%] wsm:right-[21%] mbg:right-[21.5%] vsm:right-[22%] bmd:right-[22.5%] cmd:right-[23%] dmd:right-[23.5%] ug:right-[22%] emd:right-[22.5%] fmd:right-[23%] gmd:right-[23.5%] hmd:right-[24%] imd:right-[24.5%] jmd:right-[25%] xl:bottom-[19.5rem]'
             />
           </div>
         </div>
 
-        <div className='flex flex-col xl:flex-row items-center justify-center mx-auto gap-[34px] 2xl:justify-evenly mt-10 xl:mt-[80px]'>
+        <div className='flex flex-col xl:flex-row items-center justify-center mx-auto gap-[34px] ug:gap-[71px]  mt-10 xl:mt-[80px]'>
           <div className='w-[300px] h-[320px] sm:w-[350px] sm:h-[354px] flex flex-col items-center justify-center xl:items-start xl:justify-start  rounded-[20px] bg-white shadow-2xl xl:z-20'>
             <div className=' pl-0 pt-[54px] xl:pl-[37px]'>
               <Image
@@ -107,7 +107,7 @@ const AboutUs = () => {
         </div>
 
         {/* second row */}
-        <div className='flex flex-col xl:flex-row items-center justify-center mx-auto  gap-[34px] 2xl:justify-evenly mt-10 xl:mt-[37px]'>
+        <div className='flex flex-col xl:flex-row items-center justify-center mx-auto  gap-[34px] ug:gap-[71px]  mt-10 xl:mt-[37px]'>
           <div className='w-[300px] h-[320px] sm:w-[350px] sm:h-[354px]  flex flex-col items-center justify-center xl:items-start xl:justify-start    rounded-[20px] bg-white shadow-2xl xl:z-20'>
             <div className='pt-[46px] pl-0 xl:pl-[39.61px]'>
               <Image

@@ -7,16 +7,43 @@
   --color-background: var(--background);
   --color-foreground: var(--foreground);
   --font-mulish:  "Mulish", sans-serif;
+  --breakpoint-nwsm:25rem;
+  --breakpoint-esm: 82.75rem;
+  --breakpoint-jsm:85.25rem;
   --breakpoint-tsm:85.375rem;
+  --breakpoint-zmd:86.25rem;
+  --breakpoint-ksm:88.25rem;
   --breakpoint-ysm: 90rem;
-  --breakpoint-lsm:104.75rem;
-  --breakpoint-bsm:110.75rem;
-  --breakpoint-csm:117rem;
-  --breakpoint-dsm:124.25rem;
-  --breakpoint-vsm:134.5rem;
+  --breakpoint-psm:92rem;
+  --breakpoint-qsm:94.5rem;
+  --breakpoint-rsm:96.75rem;
+  --breakpoint-msm:99rem;
+  --breakpoint-nsm:102.25rem;
+  --breakpoint-lsm:104rem;
+  --breakpoint-asm:107rem;
+  --breakpoint-bsm:110.5rem;
+  --breakpoint-csm:113.5rem;
+  --breakpoint-gsm:116.5rem;
+    --breakpoint-dsm:118.25rem;
+  --breakpoint-hsm:120.75rem;
+  --breakpoint-ism:122.25rem;
+  --breakpoint-osm:124.5rem;
   --breakpoint-bg:125rem;
+  --breakpoint-lbg:128rem;
+  --breakpoint-wsm:130.5rem;
+  --breakpoint-mbg:132.75rem;
+  --breakpoint-vsm:134.5rem;
+  --breakpoint-bmd:137.25rem;
+  --breakpoint-cmd:139.25rem;
+  --breakpoint-dmd:141.75rem;
   --breakpoint-ug:143.75rem;
+  --breakpoint-emd:145.75rem;
+  --breakpoint-fmd:148.25rem;
+  --breakpoint-gmd:150.75rem;
+  --breakpoint-hmd:153.75rem;
   --breakpoint-fsm:154.25rem;
+  --breakpoint-imd:156.75rem;
+  --breakpoint-jmd:159.75rem;
   
 }
 

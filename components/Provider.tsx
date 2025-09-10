@@ -37,7 +37,7 @@ const Provider = () => {
           </div>
         </div>
       </section>
-      <div className='hidden xl:flex lg:justify-end mt-[9rem]'>
+      <div className='hidden xl:flex lg:justify-end mt-[6.625rem]'>
         <Image
           src='/heroDots.png'
           width={131.58}
